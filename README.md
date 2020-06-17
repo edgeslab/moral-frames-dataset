@@ -4,6 +4,11 @@ News articles annotated with moral frames.
 
 Read full paper [here](https://www.cs.uic.edu/~elena/pubs/shahid-nuse20.pdf)
 
+## Annotations
+
+Annotated data can be found in `data/mf`. Each subdirectory indicates annotations provided by a certain annotator. The text files `.txt` contain the article and the `.ann` files are in the [BRAT annotation format](https://brat.nlplab.org/standoff.html).
+
+
 
 ## Citation
 
