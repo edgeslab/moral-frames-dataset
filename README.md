@@ -1,4 +1,4 @@
-## Dataset for "Detecting and Understanding Moral Biases in News [Shahid et al. ACL-NUSE'2020]"
+## Dataset for "Detecting and Understanding Moral Biases in News"
 
 News articles annotated with moral frames.
 
