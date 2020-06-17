@@ -1,0 +1,9 @@
+T1	Cheating 553 701	Even if it was, Gray's possession of the knife wouldn't justify his being chased and arrested, since the police had no grounds to suspect he had it.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Cheating 1810 1865	Gray's knife may have been illegal, but it shouldn't be
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Cheating 0 7	ARTICLE
+A5	Claim T3 Supported
+A6	Issue T3 Supported

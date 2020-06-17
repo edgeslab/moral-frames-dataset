@@ -1,0 +1,15 @@
+T1	Harm 270 379	The city has been rocked by killings and riots and has become a national symbol of urban turmoil and despair.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Subversion 270 379	The city has been rocked by killings and riots and has become a national symbol of urban turmoil and despair.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Cheating 752 942	“For all of us who have given so much of our energies to making our city a safer, fairer, more just and more prosperous place, it was a heartbreaking night in the life of our city,” he said.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Cheating 1438 1588	“Tell me how it is you can get pulled over for a broken taillight in our country, but if you wreck the nation’s economy you are untouchable,” he said.
+A7	Claim T4 Supported
+A8	Issue T4 Supported
+T5	Cheating 0 7	ARTICLE
+A9	Claim T5 Supported
+A10	Issue T5 Supported

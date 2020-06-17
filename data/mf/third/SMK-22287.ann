@@ -1,0 +1,9 @@
+T1	Cheating 76 244	Tobacco companies knew for decades that cigarette smoke was radioactive and potentially carcinogenic but kept the information from the public, according to a new study.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Harm 76 244	Tobacco companies knew for decades that cigarette smoke was radioactive and potentially carcinogenic but kept the information from the public, according to a new study.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Harm 1058 1189	Now, he said, the industry's own research shows that polonium-210, absorbed by tobacco leaves and inhaled by smokers, is dangerous.
+A5	Claim T3 Supported
+A6	Issue T3 Supported

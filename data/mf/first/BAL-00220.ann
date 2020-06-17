@@ -1,0 +1,9 @@
+T1	Cheating 0 7	ARTICLE
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Cheating 3870 4088	Federal investigators released their findings last year, ruling that city police routinely used excessive force, needlessly shot residents and used stun guns and chemical sprays to punish, rather than subdue, suspects.
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Harm 3870 4088	Federal investigators released their findings last year, ruling that city police routinely used excessive force, needlessly shot residents and used stun guns and chemical sprays to punish, rather than subdue, suspects.
+A5	Claim T3 Supported
+A6	Issue T3 NA

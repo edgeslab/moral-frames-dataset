@@ -1,0 +1,12 @@
+T1	Cheating 0 7	ARTICLE
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Cheating 233 471	Actor Forest Whitaker and Harvard University Professor Henry Louis Gates, Jr., are among the African-American men who have been stopped for shoplifting, driving their cars, or walking in their neighborhood, even though they were innocent.
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Harm 472 532	Walter Scott was fatally shot in the back in South Carolina.
+A5	Claim T3 Supported
+A6	Issue T3 NA
+T4	Cheating 654 754	Imagine being followed each time you shop, or seeing job promotions go to less-qualified Caucasians.
+A7	Claim T4 Supported
+A8	Issue T4 NA

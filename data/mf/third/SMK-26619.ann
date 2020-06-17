@@ -1,0 +1,6 @@
+T1	Harm 509 668	"Cigarette smoking is probably the worst man-made epidemic," says Michael Weitzman, study author and a professor at the New York University School of Medicine.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Harm 0 7	ARTICLE
+A3	Claim T2 Supported
+A4	Issue T2 Supported

@@ -1,0 +1,12 @@
+T1	Cheating 246 523	“Powerful, wealthy special interests here at home have used our government to create, in our own country, an economy that is leaving a majority of our people behind,” said O’Malley, opening his 2016 presidential campaign with a rally at a waterfront park in downtown Baltimore.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Subversion 2599 2799	O’Malley launched his campaign at an uneasy time for Baltimore, which was rocked by riots last month over the death of Freddie Gray, a young black man, from injuries sustained while in police custody.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Harm 2599 2799	O’Malley launched his campaign at an uneasy time for Baltimore, which was rocked by riots last month over the death of Freddie Gray, a young black man, from injuries sustained while in police custody.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Cheating 0 7	ARTICLE
+A7	Claim T4 Supported
+A8	Issue T4 Supported

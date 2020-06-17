@@ -1,0 +1,12 @@
+T1	Subversion 1093 1251	Gray's death last month touched off riots in Baltimore and led to the arrest of hundreds of protesters and the destruction of millions of dollars of property.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Cheating 2186 2278	Gray had asked for medical care while being transported, but none was provided, police said.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Cheating 2279 2397	Police also failed to put Gray in a seat belt to prevent him from being jostled in the van, as police policy required.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Cheating 0 7	ARTICLE
+A7	Claim T4 Supported
+A8	Issue T4 Supported

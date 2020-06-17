@@ -1,0 +1,12 @@
+T1	Fairness 0 7	ARTICLE
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Harm 445 579	One tweet posted on a Twitter account registered as Zach Davis on April 28 reads: “It’s time to start using deadly force in Baltimore.
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Harm 580 654	When they start slaying these ignorant young people it’ll send a message.”
+A5	Claim T3 Supported
+A6	Issue T3 NA
+T4	Fairness 8 114	A Clark County Sheriff’s Office deputy has been fired after allegedly posting racially insensitive tweets.
+A7	Claim T4 Supported
+A8	Issue T4 NA

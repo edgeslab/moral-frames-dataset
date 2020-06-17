@@ -1,0 +1,15 @@
+T1	Harm 421 564	The 28-year-old Hunt was lured out of the barbershop, according to his attorney, and shot in the back of the head on the afternoon of April 29.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Betrayal 4364 4553	The past few weeks have been rough on rank-and-file cops who, according to their union representatives, feel distrusted by the citizenry, vilified by the media and alienated by prosecutors.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Harm 9421 9481	The shootings and the burials continued their frenzied pace.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Harm 5422 5463	Andre Hunt was killed the next afternoon.
+A7	Claim T4 Supported
+A8	Issue T4 Supported
+T5	Harm 0 7	ARTICLE
+A9	Claim T5 Supported
+A10	Issue T5 Supported

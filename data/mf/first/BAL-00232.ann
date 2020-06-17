@@ -1,0 +1,15 @@
+T1	Harm 1233 1367	Michael Brown, an unarmed teenager, was shot to death by a Ferguson, Mo., police officer in August, touching off protests and rioting.
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Cheating 0 7	ARTICLE
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Care 269 470	Obama announced the steps, which are the result of an executive order, during a visit to Camden, N.J., where he pushed efforts to encourage trust-building between police and the communities they serve.
+A5	Claim T3 Supported
+A6	Issue T3 NA
+T4	Harm 1368 1627	Tensions flared again last month when 50-year-old Walter Scott was shot by an officer while fleeing the scene of a traffic stop in North Charleston, S.C., and 25-year-old Freddie Gray died in Baltimore after sustaining spinal injuries while in police custody.
+A7	Claim T4 Supported
+A8	Issue T4 NA
+T5	Subversion 1628 1780	Gray’s death touched off some of the worst rioting in a U.S. city since the late 1960s and also highlighted divisions between black and white Americans.
+A9	Claim T5 Supported
+A10	Issue T5 NA

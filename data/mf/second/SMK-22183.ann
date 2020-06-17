@@ -1,0 +1,9 @@
+T1	Harm 430 571	I am really frustrated because we know how dangerous secondhand smoke is and we know that it kills approximately 1,200 Missourians each year.
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Harm 0 7	ARTICLE
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Cheating 920 982	They have no right to kill others from their secondhand smoke.
+A5	Claim T3 Supported
+A6	Issue T3 NA

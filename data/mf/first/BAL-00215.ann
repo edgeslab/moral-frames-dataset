@@ -1,0 +1,9 @@
+T1	Cheating 0 7	ARTICLE
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Cheating 1065 1208	The results of a Justice Department investigation released in December found Cleveland police systematically engaged in excessive use of force.
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Harm 1209 1414	Just days before the report was released, a Cleveland police officer shot and killed Tamir Rice, a 12-year-old boy who was carrying what turned out to be a replica gun that typically fires plastic pellets.
+A5	Claim T3 Supported
+A6	Issue T3 NA

@@ -1,0 +1,15 @@
+T1	Cheating 647 893	'Every citizen of Baltimore was impacted by the events surrounding the arrest and death of Freddie Gray,'' the motion said, ''and every potential juror would bring their passions and prejudices relating to the events with them to the courtroom.''
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Subversion 1677 1880	''The jurors watched on the news (or in person) their community burning, vehicles being smashed and set on fire, riots erupting around the city, businesses being vandalized and looted,'' the motion said.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Harm 1677 1880	''The jurors watched on the news (or in person) their community burning, vehicles being smashed and set on fire, riots erupting around the city, businesses being vandalized and looted,'' the motion said.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Cheating 2112 2282	Compelling Baltimore residents to serve as jurors with such ''a spectacle'' underway during a trial in the city, the lawyers said, ''would be unfair and wholly improper.'
+A7	Claim T4 Supported
+A8	Issue T4 Supported
+T5	Cheating 0 7	ARTICLE
+A9	Claim T5 Supported
+A10	Issue T5 Supported

@@ -1,0 +1,12 @@
+T1	Cheating 298 400	"Baltimore continues to have a fractured relationship between the police and the community," she said.
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Subversion 1675 1777	He died one week later, setting off rioting and days of tense standoffs between protesters and police.
+A3	Claim T2 Supported
+A4	Issue T2 Supported
+T3	Harm 1778 1880	Police cars and businesses were set ablaze as hundreds of demonstrators threw rocks and looted stores.
+A5	Claim T3 Supported
+A6	Issue T3 Supported
+T4	Cheating 0 7	ARTICLE
+A7	Claim T4 Supported
+A8	Issue T4 Supported

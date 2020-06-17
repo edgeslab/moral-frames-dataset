@@ -1,0 +1,15 @@
+T1	Cheating 0 7	ARTICLE
+A1	Claim T1 Supported
+A2	Issue T1 NA
+T2	Cheating 8 126	A December review of policing in Cleveland found that the use of unreasonable force was part of a pattern of behavior.
+A3	Claim T2 Supported
+A4	Issue T2 NA
+T3	Fairness 127 384	The Justice Department and the city of Cleveland announced an agreement Tuesday that would place the troubled local police department under the direction of an independent monitor to ensure reforms following a string of deadly encounters involving officers.
+A5	Claim T3 Supported
+A6	Issue T3 NA
+T4	Cheating 1475 1661	A December Justice review of policing in Cleveland found that the use of unreasonable force was part of a pattern of behavior among police that was in some cases endorsed by supervisors.
+A7	Claim T4 Supported
+A8	Issue T4 NA
+T5	Harm 2063 2197	The 25-year-old man suffered severe spinal cord injuries and died while in police custody, touching off violent protests in that city.
+A9	Claim T5 Supported
+A10	Issue T5 NA

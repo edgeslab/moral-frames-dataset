@@ -1,0 +1,15 @@
+T1	Cheating 480 588	But the same fuzziness that works to the officers’ advantage discredits the law they say they were enforcing
+A1	Claim T1 Supported
+A2	Issue T1 Supported
+T2	Cheating 3028 3173	It is plainly unjust to punish someone with up to a year in jail, the penalty allowed by Baltimore’s ordinance, for violating an inscrutable law.
+A3	Claim T2 Supported
+T3	Cheating 3312 3405	Laws such as Baltimore’s add vagueness to arbitrariness, inviting discriminatory enforcement.
+A4	Claim T3 Supported
+T4	Fairness 3871 3982	A man’s freedom, let alone his life, should not hinge on the presence or absence of a spring in his pocketknife
+A5	Claim T4 Supported
+A6	Issue T4 Supported
+A7	Issue T3 Supported
+A8	Issue T2 Supported
+T5	Cheating 0 7	ARTICLE
+A9	Claim T5 Supported
+A10	Issue T5 Supported
