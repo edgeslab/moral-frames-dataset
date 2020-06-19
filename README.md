@@ -2,7 +2,7 @@
 
 News articles annotated with moral frames.
 
-Read full paper [here](https://www.cs.uic.edu/~elena/pubs/shahid-nuse20.pdf)
+Read full paper [here](https://www.cs.uic.edu/~elena/pubs/shahid-nuse20.pdf) and annotation manual [here](https://bit.ly/2LXiiR5).
 
 ## Annotations
 
@@ -16,7 +16,7 @@ Annotated data can be found in `data/mf`. Each subdirectory indicates annotation
 @inproceedings{shahid-aclnuse20,
   title={Detecting and Understanding Moral Biases in News},
   author={Shahid, Usman and Di Eugenio, Barbara and Rojecki, Andrew and Zheleva, Elena},
-  booktitle={ACL-NUSE},
+  booktitle={ACL Workshop on Narrative Understanding, Storylines and Events (NUSE)},
   year={2020}
 }
 ```
